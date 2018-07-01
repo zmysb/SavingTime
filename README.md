@@ -1,2 +1,2 @@
 # SavingTime
-https://zmysb.github.io/SavingTime/index
+https://zmysb.github.io/SavingTime/index-iphone
